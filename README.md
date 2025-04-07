@@ -1,6 +1,4 @@
-<div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Haebin's+Github;I'm+DataScience/AI+Developer)](https://git.io/typing-svg)]
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+Haebin's+Github;I'm+DataScience/AI+Developer)](https://git.io/typing-svg)]
 
 <!--
 **haeb98/haeb98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
